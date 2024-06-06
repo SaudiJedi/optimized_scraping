@@ -41,6 +41,6 @@ To execute the script, run the following command in your terminal:
 python script.py
 ```
 
-## Contribution:
+## Contributing:
 Contributions to improve the script or add new features are welcome. Please feel free to fork the repository, make changes, and submit a pull request.
 
